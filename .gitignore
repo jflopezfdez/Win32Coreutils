@@ -6,6 +6,7 @@
 
 # Ignore any output build directories.
 cat/x64/**/*
+x64/**/*
 
 # Ignore any build outputs.
 *.dll
