@@ -1,0 +1,13 @@
+# Ignore Visual Studio files.
+.vs/*
+
+# Ignore VS Code files.
+.vscode/*
+
+# Ignore any output build directories.
+cat/x64/**/*
+
+# Ignore any build outputs.
+*.dll
+*.exe
+*.pdb
